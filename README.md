@@ -10,7 +10,7 @@ I'm Tung T. Nguyen - a Newbie in the Tech World
 
 - 🚀 Exploring new technologies and developing software solution
 - 🎓 Studied Information Specialist at Hanoi University of Science and Technology
-- 🌱 Learning more about ... everything 😝 especially Web/Game development, AI, Security
+- 🌱 Learning more about ... everything 😝 especially Web/Game/Mobile development, AI, Security
 - ⚡ Wanna do Competitive Programming for Fun  😋
 
 #### Top Technologies
