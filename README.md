@@ -31,7 +31,7 @@ I'm Tung T. Nguyen - a Newbie in the Tech World
 
 
 #### Bizness
-- :paperclip: [My Resume/CV](https://github.com)
+- :paperclip: [My Resume/CV](https://github.com/lonelythekid/lonelythekid/blob/master/Nguyen-Tien-Tung-TopCV.vn-071121.184121.pdf)
 - :email: ngtientung98@gmail.com
 
 
