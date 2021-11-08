@@ -44,10 +44,3 @@ I'm Tung T. Nguyen - a Newbie in the Tech World
 #### Github Stats
 
 ![Tung Nguyen's GitHub stats](https://github-readme-stats.vercel.app/api?username=lonelythekid&show_icons=true&theme=dracula)
-
-### On Progress:
--FullSTack Solidity/Python Blockchain (learning purpose)  
--Linkedin clone with NestJs/Angular/Ionic  
--NodeJs Microservices 101  
--ReactNative/AWSamplify Chat app  
--FastAPI Blog
