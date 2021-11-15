@@ -31,16 +31,16 @@ I'm Tung T. Nguyen - a Newbie in the Tech World
 
 
 #### Bizness
-- :paperclip: [My Resume/CV](https://github.com/lonelythekid/lonelythekid/blob/master/Nguyen-Tien-Tung-TopCV.vn-071121.184121.pdf)
+- :paperclip: [My Resume/CV](https://github.com/nguyen-tien-tung/nguyen-tien-tung/blob/master/Nguyen-Tien-Tung-TopCV.vn-071121.184121.pdf)
 - :email: ngtientung98@gmail.com
 
 
 #### Profile Visits 
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=lonelythekid.lonelythekid)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=nguyen-tien-tung.nguyen-tien-tung)
 
 
 
 #### Github Stats
 
-![Tung Nguyen's GitHub stats](https://github-readme-stats.vercel.app/api?username=lonelythekid&show_icons=true&theme=dracula)
+![Tung Nguyen's GitHub stats](https://github-readme-stats.vercel.app/api?username=nguyen-tien-tung&show_icons=true&theme=dracula)
