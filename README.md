@@ -37,7 +37,7 @@ I'm Tung T. Nguyen - a Newbie in the Tech World
 
 #### Profile Visits 
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=nguyen-tien-tung.nguyen-tien-tung)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=nguyen-tien-tung&left_color=green&right_color=red)
 
 
 
