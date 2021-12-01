@@ -4,7 +4,7 @@ I'm Tung T. Nguyen - a Newbie in the Tech World
 
 :mailbox: Reach me out!
 
-[![Twitter Badge](https://img.shields.io/badge/-@Tung_Nguyen_98-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/Tung_Nguyen_98)](https://twitter.com/Tung_Nguyen_98) [![Linkedin Badge](https://img.shields.io/badge/-Tung_Nguyen_-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tung-nguyen-61b485217/) [![Mail Badge](https://img.shields.io/badge/-ngtientung98-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:ngtientung98@gmail.com)
+[![Twitter Badge](https://img.shields.io/badge/-@Tung_Nguyen_98-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/Tung_Nguyen_98)](https://twitter.com/Tung_Nguyen_98) [![Linkedin Badge](https://img.shields.io/badge/-Tung_Nguyen_-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tung-tien-nguyen/) [![Mail Badge](https://img.shields.io/badge/-ngtientung98-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:ngtientung98@gmail.com)
 
 <!-- TODO: Add last video link -->
 
