@@ -42,7 +42,7 @@ I'm Tung T. Nguyen - a Newbie in the Tech World
 
 
 #### Profile Visits 
-![](https://komarev.com/ghpvc/?username=nguyen-tien-tung&color=green)
+![](https://komarev.com/ghpvc/?username=nguyen-tien-tung&color=0FAEF3)
 
 
 #### Github Stats
