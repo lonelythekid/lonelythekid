@@ -50,4 +50,4 @@ I'm Tung T. Nguyen - a Newbie in the Tech World
 ![Tung Nguyen's GitHub stats](https://github-readme-stats.vercel.app/api?username=nguyen-tien-tung&show_icons=true&theme=dracula)
 
 #### Leetcode Stats
-![Leetcode Stats](https://leetcard.jacoblin.cool/trickytry2code)
+![Leetcode Stats](https://leetcard.jacoblin.cool/trickytry2code?ext=activity&ext=heatmap&ext=contest)
